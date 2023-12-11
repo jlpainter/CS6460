@@ -15,13 +15,16 @@ administrators, teachers and students. It provides a basic dashboard for teacher
 evaluate student performance and allows for a deep dive into individual student assessments.
 
 # Final Video Presentation
-View my final presentation using the link below
+View my final presentation using the link below:
+
 https://youtu.be/zkcOY4rQXnE
 
 # Slides
 You can access the slides from the presentation here:
+
 https://drive.google.com/file/d/1L3RnknoS-liGG0K_JZy1g0UAUbL3Tcct/view
 
 # App Demo
 You can access the application from the following URL:
+
 https://shiny.mathisawesome.com/app/cs6460
